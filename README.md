@@ -1,7 +1,7 @@
 # 🏋️ GYM CLASS BOOKING SYSTEM
 ## Multi-Role System | Admin · User · Trainer
 
-**PHP · MySQL · PDO · HTML · CSS**  
+**PHP · MySQL · HTML · CSS**  
 *School Class Project | 2025*
 
 ---
