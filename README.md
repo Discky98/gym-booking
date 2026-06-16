@@ -13,7 +13,7 @@ The **Gym Class Booking System** is a role-based web application where:
 - **Trainers** can accept or reject booking requests.
 - **Admin** manages all users, classes, and oversees all bookings.
 
-The system demonstrates all CRUD operations (INSERT, SELECT, UPDATE, DELETE) using **PDO prepared statements** and features a **modern dashboard UI** inspired by the [Task Management Dashboard](https://dribbble.com/shots/25241984-Task-Management-Dashboard) design (dark sidebar + card layout).
+The system demonstrates all CRUD operations (INSERT, SELECT, UPDATE, DELETE) using **PDO prepared statements** and features a **modern dashboard UI**  design (dark sidebar + card layout).
 
 ### What the System Does (by Role)
 
