@@ -58,7 +58,7 @@ $recent = $stmt->fetchAll();
             <a class="menu-link" data-icon="U" href="manage_users.php">Manage Users</a>
         <?php endif; ?>
         <div class="menu-section">General</div>
-        <a class="menu-link" data-icon="↩" href="../logout.php">Logout</a>
+        <a class="menu-link" data-icon="↩" href="logout.php">Logout</a>
     </aside>
 
     <main class="content">

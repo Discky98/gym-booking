@@ -62,7 +62,7 @@ $users = $pdo->query("SELECT id, name, email, role, created_at FROM users ORDER 
         <a class="menu-link" data-icon="C" href="manage_classes.php">Manage Classes</a>
         <a class="menu-link active" data-icon="U" href="manage_users.php">Manage Users</a>
         <div class="menu-section">General</div>
-        <a class="menu-link" data-icon="↩" href="../logout.php">Logout</a>
+        <a class="menu-link" data-icon="↩" href="logout.php">Logout</a>
     </aside>
     <main class="content">
         <div class="searchbar">

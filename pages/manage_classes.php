@@ -57,7 +57,7 @@ $classes = $pdo->query("SELECT * FROM classes ORDER BY id DESC")->fetchAll();
         <a class="menu-link active" data-icon="C" href="manage_classes.php">Manage Classes</a>
         <a class="menu-link" data-icon="U" href="manage_users.php">Manage Users</a>
         <div class="menu-section">General</div>
-        <a class="menu-link" data-icon="↩" href="../logout.php">Logout</a>
+        <a class="menu-link" data-icon="↩" href="logout.php">Logout</a>
     </aside>
     <main class="content">
         <div class="searchbar">

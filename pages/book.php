@@ -33,7 +33,7 @@ $classes = $pdo->query("SELECT * FROM classes ORDER BY class_name ASC")->fetchAl
         <a class="menu-link active" data-icon="+" href="book.php">Book a Class</a>
         <a class="menu-link" data-icon="▣" href="bookings.php">My Bookings</a>
         <div class="menu-section">General</div>
-        <a class="menu-link" data-icon="↩" href="../logout.php">Logout</a>
+        <a class="menu-link" data-icon="↩" href="logout.php">Logout</a>
     </aside>
     <main class="content">
         <div class="searchbar">
